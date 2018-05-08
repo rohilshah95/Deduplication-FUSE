@@ -9,7 +9,7 @@ To compile this file system, go to the Deduplication-FUSE directory and run
 ``` make ```.
 
 To run the file system, run 
-``` .\dedupfs #mount_directory #root_directory ```.
+``` ./dedup -s #mount_directory #root_directory ```.
 
 Dependecies required -
 1. gcc
